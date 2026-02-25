@@ -1,7 +1,7 @@
 import fitz
 import os
 
-# Caminho
+# Caminhos
 caminho_pdf = r"C:\Users\Yanca\Documents\testes.pdf"
 pasta_saida = r"C:\Users\Yanca\Documents\testes_Imagens"
 
